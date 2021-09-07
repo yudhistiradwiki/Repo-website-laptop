@@ -1,0 +1,154 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color: black;
+}
+
+.bgimage{
+	background-image: url('img/banner1.jpg');
+	background-size: 100% 110%;
+	width: 100%;
+	height: 100vh;
+}
+.bgimage1{
+	background-image: url('img/banner.jpg');
+	background-size: 100% 110%;
+	width: 100%;
+	height: 100vh;
+}
+
+.bgimage2{
+	background-image: url('img/banner2.jpg');
+	background-size: 100% 110%;
+	width: 100%;
+	height: 100vh;
+}
+
+.menu{
+
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.4);
+}
+
+.leftmenu{
+	width: 20%;
+	line-height: 100px;
+	float: left;
+}
+
+.leftmenu h4{
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 22px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.rightmenu{
+	width:70%;
+	height: 100px;
+	float: right;
+/*	background-color: red; */
+}
+
+.rightmenu ul{
+	margin-left: 400px;
+}
+
+.rightmenu ul li {
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color:white;
+	font-weight: bold;
+	line-height: 100px;
+	margin-left: 40px;
+	text-transform: uppercase;
+}
+
+.rightmenu ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+.rightmenu ul li a:hover{
+	color: orange;
+}
+
+#fisrtlist{
+	color: orange;
+}
+
+.text{
+	width: 100%;
+	margin-top: 185px;
+	text-transform: uppercase;
+	text-align: center;
+	color:white;
+}
+
+.text h4{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.text h1{
+	font-size:62px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700px;
+	margin:14px 0px;
+}
+
+.text h3{
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#buttonone{
+	background-color: white;
+	border: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 40px;
+	width: 150px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+	border: 3px solid white;
+}
+
+main{
+	margin: 0px;
+}
+
+article{
+	background-color: #333333; 
+	padding: 0px;
+}
+
+h2{
+	margin: 20px; 
+	text-decoration: underline; 
+	color: #ffffff; 
+	font-family: 'Montserrat', sans-serif;
+}
+
+p{
+	margin-left: 20px; 
+	margin-right: 20px; 
+	color: #ffffff; 
+	font-family: 'Montserrat', sans-serif;
+}
+
+#kotakk{
+	background-color: #161616;
+	 padding: 0px; 
+	 margin: 0px;
+}
